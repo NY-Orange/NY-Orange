@@ -5,9 +5,6 @@
 - 所属：愛媛大学大学院 理工学研究科 人工知能研究室
 - e-mail：nakai [at] ai.cs.ehime-u.ac.jp
 
-## 資格
-
-- TOEIC L&R 750
 
 
 <!--
