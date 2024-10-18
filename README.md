@@ -1,9 +1,3 @@
-# NY-Orange
-## プロフィール
-
-- 名前：中井 裕也
-- 所属：愛媛大学大学院 理工学研究科 人工知能研究室
-- e-mail：nakai [at] ai.cs.ehime-u.ac.jp
 
 
 
